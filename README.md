@@ -15,6 +15,11 @@
 
 -  `npm run start`
 
+#### How to test  your application (where applicable)
+
+-  `npm run test`
+
+
 
 
 #### UML
