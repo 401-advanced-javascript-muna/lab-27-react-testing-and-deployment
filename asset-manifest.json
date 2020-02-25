@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.js": "/lab-27-react-testing-and-deployment/static/js/main.80e0c392.chunk.js",
-    "main.js.map": "/lab-27-react-testing-and-deployment/static/js/main.80e0c392.chunk.js.map",
+    "main.css": "/lab-27-react-testing-and-deployment/static/css/main.0c1f0106.chunk.css",
+    "main.js": "/lab-27-react-testing-and-deployment/static/js/main.ab53682b.chunk.js",
+    "main.js.map": "/lab-27-react-testing-and-deployment/static/js/main.ab53682b.chunk.js.map",
     "runtime-main.js": "/lab-27-react-testing-and-deployment/static/js/runtime-main.df54eb08.js",
     "runtime-main.js.map": "/lab-27-react-testing-and-deployment/static/js/runtime-main.df54eb08.js.map",
     "static/js/2.50d33bb8.chunk.js": "/lab-27-react-testing-and-deployment/static/js/2.50d33bb8.chunk.js",
     "static/js/2.50d33bb8.chunk.js.map": "/lab-27-react-testing-and-deployment/static/js/2.50d33bb8.chunk.js.map",
     "index.html": "/lab-27-react-testing-and-deployment/index.html",
-    "precache-manifest.ce69e65b5956eb4c964033379d2765e9.js": "/lab-27-react-testing-and-deployment/precache-manifest.ce69e65b5956eb4c964033379d2765e9.js",
+    "precache-manifest.df3c12e4914e2107cc99f438e29ade78.js": "/lab-27-react-testing-and-deployment/precache-manifest.df3c12e4914e2107cc99f438e29ade78.js",
     "service-worker.js": "/lab-27-react-testing-and-deployment/service-worker.js",
+    "static/css/main.0c1f0106.chunk.css.map": "/lab-27-react-testing-and-deployment/static/css/main.0c1f0106.chunk.css.map",
     "static/js/2.50d33bb8.chunk.js.LICENSE.txt": "/lab-27-react-testing-and-deployment/static/js/2.50d33bb8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.df54eb08.js",
     "static/js/2.50d33bb8.chunk.js",
-    "static/js/main.80e0c392.chunk.js"
+    "static/css/main.0c1f0106.chunk.css",
+    "static/js/main.ab53682b.chunk.js"
   ]
 }
