@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/react-test-deploy/static/js/main.80e0c392.chunk.js",
-    "main.js.map": "/react-test-deploy/static/js/main.80e0c392.chunk.js.map",
-    "runtime-main.js": "/react-test-deploy/static/js/runtime-main.f732afdd.js",
-    "runtime-main.js.map": "/react-test-deploy/static/js/runtime-main.f732afdd.js.map",
-    "static/js/2.50d33bb8.chunk.js": "/react-test-deploy/static/js/2.50d33bb8.chunk.js",
-    "static/js/2.50d33bb8.chunk.js.map": "/react-test-deploy/static/js/2.50d33bb8.chunk.js.map",
-    "index.html": "/react-test-deploy/index.html",
-    "precache-manifest.acdeb55bd34bf0dd21ac6501c296a411.js": "/react-test-deploy/precache-manifest.acdeb55bd34bf0dd21ac6501c296a411.js",
-    "service-worker.js": "/react-test-deploy/service-worker.js",
-    "static/js/2.50d33bb8.chunk.js.LICENSE.txt": "/react-test-deploy/static/js/2.50d33bb8.chunk.js.LICENSE.txt"
+    "main.js": "/lab-27-react-testing-and-deployment/static/js/main.80e0c392.chunk.js",
+    "main.js.map": "/lab-27-react-testing-and-deployment/static/js/main.80e0c392.chunk.js.map",
+    "runtime-main.js": "/lab-27-react-testing-and-deployment/static/js/runtime-main.df54eb08.js",
+    "runtime-main.js.map": "/lab-27-react-testing-and-deployment/static/js/runtime-main.df54eb08.js.map",
+    "static/js/2.50d33bb8.chunk.js": "/lab-27-react-testing-and-deployment/static/js/2.50d33bb8.chunk.js",
+    "static/js/2.50d33bb8.chunk.js.map": "/lab-27-react-testing-and-deployment/static/js/2.50d33bb8.chunk.js.map",
+    "index.html": "/lab-27-react-testing-and-deployment/index.html",
+    "precache-manifest.ce69e65b5956eb4c964033379d2765e9.js": "/lab-27-react-testing-and-deployment/precache-manifest.ce69e65b5956eb4c964033379d2765e9.js",
+    "service-worker.js": "/lab-27-react-testing-and-deployment/service-worker.js",
+    "static/js/2.50d33bb8.chunk.js.LICENSE.txt": "/lab-27-react-testing-and-deployment/static/js/2.50d33bb8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f732afdd.js",
+    "static/js/runtime-main.df54eb08.js",
     "static/js/2.50d33bb8.chunk.js",
     "static/js/main.80e0c392.chunk.js"
   ]
