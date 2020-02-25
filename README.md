@@ -9,7 +9,8 @@
 
 - [submission PR](https://github.com/401-advanced-javascript-muna/lab-26-component-based-ui/pull/1)
 
-
+- [deploy link ](https://401-advanced-javascript-muna.github.io/lab-27-react-testing-and-deployment/)
+(https://github.com/401-advanced-javascript-muna/lab-27-react-testing-and-deployment/actions)
 
 #### How to initialize/run your application (where applicable)
 
