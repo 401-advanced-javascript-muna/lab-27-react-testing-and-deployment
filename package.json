@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/401-advanced-javascript-muna/lab-27-react-testing-and-deployment/issues"
   },
-  "homepage": "https://munaalshorman.github.io/react-test-deploy/",
+  "homepage": "https://munaalshorman.github.io/lab-27-react-testing-and-deployment/",
   "dependencies": {
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
