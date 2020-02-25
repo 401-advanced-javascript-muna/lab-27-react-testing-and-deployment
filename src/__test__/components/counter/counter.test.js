@@ -2,9 +2,6 @@ import React from 'react';
 import { shallow, mount } from 'enzyme';
 import renderer from 'react-test-renderer';
 import Counter from '../../../components/counter/counter.js';
-// For Up and Down events
-// Assert state changes properly
-// Assert that state is being transferred to the DOM
 
 describe('<Counter />', () => {
   it('exists at the start of app', () => {
@@ -13,8 +10,6 @@ describe('<Counter />', () => {
   });
   it('The state start 0', ()=> {
     let app = mount(<Counter />);
-    // let buttonUp = app.find('.classes');
-    // buttonUp.simulate('click');
     expect(app.state('count')).toEqual(0);
   });
 
